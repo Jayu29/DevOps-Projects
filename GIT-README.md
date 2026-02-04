@@ -11,3 +11,5 @@ It reflects my hands-on learning approach.
 Future improvements and updates will be added regularly.  
 
 Thank you for checking out my first GitHub project!
+
+I'm Thankful for supporting me!
